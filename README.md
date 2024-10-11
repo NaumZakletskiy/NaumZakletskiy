@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Naum!
 
-🎯 I am a **full-stack software development engineer** specializing in web application development using **React**, **Next.js**, **Express/NestJS**, and cross-platform mobile development with **React Native**.
+I am a **full-stack software development engineer** specializing in web application development using **React**, **Next.js**, **Express/NestJS**, and cross-platform mobile development with **React Native**.
 
 ## 📈 Experience
 
