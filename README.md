@@ -13,33 +13,16 @@ I have extensive experience in developing AI-powered applications and business a
 
 ## 🛠 Skills
 
-### Languages
-- JavaScript
-- TypeScript
+| Language/Technology | Proficiency                               |
+|---------------------|-------------------------------------------|
+| **Version Control** | Git                                      |
+| **Databases**       | MongoDB, PostgreSQL, Redis                |
+| **Containerization**| Docker                                    |
+| **Languages**       | JavaScript, TypeScript, HTML, CSS         |
+| **Frontend**        | React, Next.js, React Native, Redux       |
+| **Backend**         | ExpressJS, NestJS                         |
+| **AWS Services**    | S3, Lambda, Cognito, SES, ES3             |
 
-### Frontend
-- React
-- Next.js
-- Redux
-
-### Backend
-- ExpressJS
-- NestJS
-- REST APIs
-- GraphQL
-
-### Databases
-- MongoDB
-- PostgreSQL
-- Redis
-
-### DevOps
-- Git
-- Docker
-- AWS Lambda
-
-### Others
-- React Native
 
 ## 📫 Connect with Me
 Feel free to reach out if you'd like to discuss projects, collaborate, or just say hi!
