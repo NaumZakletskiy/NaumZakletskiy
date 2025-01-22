@@ -27,7 +27,6 @@ I have extensive experience in developing AI-powered applications and business a
 ## 📫 Connect with Me
 Feel free to reach out if you'd like to discuss projects, collaborate, or just say hi!
 
-- [LinkedIn](https://www.linkedin.com/in/naum-zakletskyi-62a364254/)
 - [Upwork](https://www.upwork.com/freelancers/~019f003a26656ccdc4)
 - [Email](mailto:naum.zakletskyi@sysgears.com)
 
